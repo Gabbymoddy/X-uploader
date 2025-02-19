@@ -29,7 +29,7 @@ if not Config.API_HASH:
 
 
 bot = Client(
-    "All-Url-Uploader",
+    "X-ploader",
     api_id=Config.API_ID,
     api_hash=Config.API_HASH,
     bot_token=Config.BOT_TOKEN,
